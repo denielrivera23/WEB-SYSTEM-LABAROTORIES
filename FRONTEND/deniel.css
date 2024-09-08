@@ -1,0 +1,26 @@
+
+.btn{
+    text-decoration: none;
+    border: 3px solid red;
+    padding: 5px;
+    border-radius: 8px;
+    color: rgb(91, 34, 126);
+    }
+    
+.btn:hover{
+    background-color: blue;
+    color: purple;
+    padding: 10px;
+}
+@font-face {
+    font-family:NerkoOne-Regular;
+    src: url('NerkoOne-Regular.ttf');
+}
+    
+body{
+    font-family: NerkoOne-Regular;
+         
+        
+}
+          
+     
